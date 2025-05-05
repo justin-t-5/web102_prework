@@ -20,11 +20,11 @@ The following **optional** features are implemented:
 * [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
+![Screen Recording 2025-05-04 014231](https://github.com/user-attachments/assets/7a9b1502-2736-4cfb-8738-9380092588e7)
 
 Here's a walkthrough of implemented features:
 
 
-https://s5.ezgif.com/tmp/ezgif-538a9aa40aa5ed.gif
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
 Ezgif (Video to GIF): https://ezgif.com/video-to-gif/ezgif-53ace6dbf025c.mp4
